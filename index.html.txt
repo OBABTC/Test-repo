@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Youtube Video (Class work) </title>
+
+    <link rel="stylesheet" href="/CSE 131 Assignment 5/Assignment.css">
+
+</head>
+
+<body>   
+    <div class="Header"> 
+        <p>&#9776</p> 
+        <!-- <div class="img2"><img src="/CSE 131 Assignment 5/YOUtube logo.jpg" alt=""></div> -->
+        <p>YouTube</p>
+        <!-- <div class="YouTube">YouTube</div> -->
+        <input type="text" placeholder="Search" class=" Click here">
+        <button type="submit"> Click Here </button>
+        <input type="button" value="&#xF490"Class= "Search with your voice" >
+        <div class="CREATE Account"> CREATE </div>
+        <div class="Notification"></div>
+        <input type="button" value="Notification" class="Notification">
+        <div class="Log in">Log in</div>
+    </div>
